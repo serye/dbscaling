@@ -1,7 +1,5 @@
 package com.cv.sharding;
 
-import java.net.InetAddress;
-
 public class LogRepository implements LogDAO  {
 
 	@Override
